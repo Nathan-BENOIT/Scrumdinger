@@ -75,10 +75,10 @@
 		DD1F418A2CF4C97C004FA9AD = {
 			isa = PBXGroup;
 			children = (
+				DD1F41952CF4C97C004FA9AD /* Scrumdinger */,
 				DD1F41A62CF4C97D004FA9AD /* ScrumdingerTests */,
 				DD1F41B02CF4C97D004FA9AD /* ScrumdingerUITests */,
 				DD1F41942CF4C97C004FA9AD /* Products */,
-				DD1F41952CF4C97C004FA9AD /* Scrumdinger */,
 			);
 			sourceTree = "<group>";
 		};
